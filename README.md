@@ -121,6 +121,7 @@ The market contains multiple quality groups, highlighting the diversity in compa
 ## 📸 Dashboard Screenshot
 
 Below is the Power BI dashboard created for analyzing the Indian Stock Market (1995–2024).
+https://github.com/jividhasodaye/Indian_Stock_Market_1995_to_2024-Analysis/blob/main/Indian_Stock_Analysis.JPG
 
 
 These make your Data Analyst portfolio much stronger.
