@@ -118,14 +118,9 @@ Most companies belong to the EQ market series, indicating active trading classif
 
 The market contains multiple quality groups, highlighting the diversity in company classifications.
 
-✅ This project demonstrates data analysis, dashboard design, and business intelligence skills using real-world financial data.
+## 📸 Dashboard Screenshot
 
-If you want, I can also help you add 3 more sections that make GitHub projects look very professional for recruiters:
+Below is the Power BI dashboard created for analyzing the Indian Stock Market (1995–2024).
 
-⭐ Project Screenshots Section
-
-⭐ How to Use the Dashboard
-
-⭐ Future Improvements
 
 These make your Data Analyst portfolio much stronger.
